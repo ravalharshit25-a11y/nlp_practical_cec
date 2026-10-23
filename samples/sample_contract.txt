@@ -1,0 +1,26 @@
+SERVICES AGREEMENT
+This Services Agreement is entered into on 1 March 2026 between Nova Tech Solutions Pvt. Ltd. (the "Company") and Arjun Mehta (the "Contractor").
+
+1. Term and Renewal. The initial term of this Agreement is two years. This Agreement shall automatically renew for successive one year terms unless the Contractor gives ninety days written notice of non-renewal.
+
+2. Payment. The Company shall pay the Contractor INR 150,000 per month. Late payments by the Contractor of any amount owed shall incur a penalty of 5% per month.
+
+3. Termination. The Company may terminate this Agreement at any time, for any reason, in its sole discretion without notice. The Contractor may terminate only upon one hundred eighty days written notice.
+
+4. Intellectual Property. The Contractor hereby assigns to the Company all right, title and intellectual property in any work product, inventions or ideas, whether or not related to the Services.
+
+5. Confidentiality. The Contractor shall keep all Confidential Information strictly confidential and shall not disclose it to any third party during and for five years after the term.
+
+6. Indemnification. The Contractor shall indemnify and hold harmless the Company from any and all claims, losses, damages and expenses arising out of the Services.
+
+7. Limitation of Liability. The Contractor shall be liable for all damages without limitation. The Company's liability shall not exceed INR 10,000.
+
+8. Non-Compete. The Contractor shall not engage in any competing business anywhere in India for three years after termination and shall not solicit the Company's customers.
+
+9. Warranty. The Company provides its tools as is, without warranty of any kind.
+
+10. Modification. The Company reserves the right to modify this Agreement at any time without notice.
+
+11. Dispute Resolution. All disputes shall be settled by binding arbitration in Mumbai and the Contractor waives the right to a jury trial or class action.
+
+12. Governing Law. This Agreement shall be governed by the laws of India and the courts of Mumbai shall have exclusive jurisdiction.

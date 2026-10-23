@@ -1,0 +1,32 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ClauseLens – Legal Document Analyzer</title><link rel="stylesheet" href="/static/style.css"></head><body>
+<header><h1>ClauseLens</h1><p>Paste or upload a contract. Get clauses sorted, risks flagged, and plain-English explanations.</p></header>
+<main>
+<section class="input card">
+ <textarea id="text" placeholder="Paste contract text here…"></textarea>
+ <div class="row">
+  <label class="file">Upload PDF / DOCX / TXT<input type="file" id="file" accept=".pdf,.docx,.txt"></label>
+  <button class="ghost" id="sample">Load sample contract</button>
+  <input id="query" placeholder="Ask the contract: e.g. can they fire me?">
+  <button id="go">Analyze document</button>
+ </div><p id="status" role="status"></p>
+</section>
+<section id="out" hidden>
+ <div class="top">
+  <div class="card gauge"><div id="ring"><span id="score"></span></div><b id="level"></b><small>overall risk /10</small></div>
+  <div class="card"><h2>Summary</h2><ul id="summary"></ul><div id="stats" class="pills"></div></div>
+ </div>
+ <div class="grid2">
+  <div class="card"><h2>Top risks found</h2><div id="toprisks"></div><h2 class="gap">Possibly missing clauses</h2><div id="missing" class="pills"></div></div>
+  <div class="card"><h2>Clause mix</h2><div id="cats"></div></div>
+ </div>
+ <div class="card" id="searchbox" hidden><h2>Best matches for your question</h2><div id="search"></div></div>
+ <div class="card"><h2>Key entities</h2><div id="ents" class="pills"></div></div>
+ <div class="card"><h2>Obligations</h2><ul id="obl"></ul></div>
+ <div class="bar"><h2>Clauses</h2>
+  <select id="fcat"><option value="">All categories</option></select>
+  <select id="frisk"><option value="">Any risk</option><option>High</option><option>Medium</option><option>Low</option></select>
+  <input id="fsearch" placeholder="Filter by word…"><button class="ghost" id="dl">Download JSON</button><button class="ghost" onclick="print()">Print report</button></div>
+ <div id="clauses"></div>
+ <p id="engine" class="muted"></p>
+</section></main><script src="/static/app.js"></script></body></html>
