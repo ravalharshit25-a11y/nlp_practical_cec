@@ -1,0 +1,48 @@
+DEMO DOCUMENT 2: SAMPLE HIGH-RISK / NON-COMPLIANT TERMS
+Document Type: Draft Agreement with Risk Indicators
+Purpose: Test sample for a legal-document detection/classification project
+Notice: Fictional demonstration text only. The risk indicators are intentionally included for testing and do not establish that a real document is unlawful.
+
+DRAFT PARTNERSHIP AND DATA ACCESS TERMS
+
+Parties:
+RapidGrowth Demo Ltd. ("Company")
+Independent Marketing Contractor ("Contractor")
+
+1. UNLIMITED AUTHORITY
+The Contractor may make commitments in the Company's name without written approval, regardless of value, duration, or business impact.
+
+2. PAYMENT DISCRETION
+The Company may change any payment amount at any time without notice, explanation, or a process for the Contractor to dispute the change.
+
+3. PERSONAL DATA
+The Contractor must provide all customer names, contact details, identity documents, account credentials, and other personal information to the Company on request. This draft does not specify a lawful purpose, retention period, access controls, security safeguards, or a process for handling data-subject requests.
+
+4. PERPETUAL CONFIDENTIALITY
+The Contractor must keep every piece of information confidential forever, including information already public, independently developed, or lawfully received from another source. No exceptions are stated for disclosures required by law.
+
+5. ONE-SIDED TERMINATION
+The Company may terminate immediately for any reason. The Contractor has no termination right, no cure period for alleged breaches, and no stated process for payment of accepted work completed before termination.
+
+6. COMPLETE WAIVER
+The Contractor waives every possible claim against the Company, including claims that may not legally be waived. The draft does not identify any exceptions or limits required by applicable law.
+
+7. NO GOVERNING LAW
+The document does not identify governing law, jurisdiction, a dispute-resolution process, or a notice address for either party.
+
+8. SIGNATURE AND AUTHORITY
+The draft contains no signature blocks, effective date, registered address, or confirmation that the signatories are authorised to bind the parties.
+
+DETECTION NOTES
+Expected category: Legal document / draft agreement
+Expected review flags:
+- One-sided and potentially unfair terms
+- Broad personal-data collection with no stated safeguards or purpose
+- Unrestricted authority to bind a party
+- Unilateral payment changes
+- Overbroad confidentiality clause with no exceptions
+- Missing governing law and dispute-resolution details
+- Missing execution details
+
+Suggested system output: "Review recommended — multiple contractual and privacy-related risk indicators detected."
+Important: A detection system should flag clauses for human review rather than automatically declaring the document illegal. Enforceability depends on facts and applicable law.

@@ -1,0 +1,44 @@
+DEMO DOCUMENT 1: SAMPLE SERVICE AGREEMENT
+Document Type: Service Agreement
+Purpose: Test sample for a legal-document detection/classification project
+Notice: Fictional demonstration text only. Not legal advice.
+
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is made on 15 October 2026 between:
+
+Client: Northstar Retail Demo Pvt. Ltd. ("Client")
+Service Provider: BlueOak Digital Services Demo ("Provider")
+
+1. SCOPE OF SERVICES
+The Provider will design and maintain a demonstration website for the Client. The specific deliverables, milestones, and acceptance criteria will be recorded in a written project plan approved by both parties.
+
+2. FEES AND PAYMENT
+The Client will pay the fees stated in the approved quotation. The Provider will issue an invoice for each agreed milestone. Payment is due within thirty (30) calendar days of receipt of a valid invoice.
+
+3. CONFIDENTIALITY
+Each party will use reasonable care to protect the other party's non-public business information. Confidential information may be disclosed where required by applicable law, provided that the disclosing party gives notice when legally permitted.
+
+4. DATA PROTECTION
+Each party will handle personal data in accordance with applicable data-protection laws. The Provider will use personal data only as necessary to perform the services and will apply reasonable technical and organisational safeguards.
+
+5. TERM AND TERMINATION
+This Agreement begins on the effective date and continues until the services are completed, unless terminated earlier by either party on thirty (30) days' written notice. Either party may terminate for a material breach if the breach is not remedied within fifteen (15) days after written notice.
+
+6. LIMITATION OF LIABILITY
+To the extent permitted by applicable law, neither party will be liable for indirect or consequential loss. Nothing in this clause excludes liability that cannot lawfully be excluded.
+
+7. GOVERNING LAW AND DISPUTES
+The parties will first attempt to resolve disputes through good-faith discussions. If they cannot resolve a dispute, the matter will be handled by a court or other forum with appropriate jurisdiction under the governing law agreed in the final signed version of this Agreement.
+
+8. ENTIRE AGREEMENT
+This document is a demonstration template. A real agreement should identify the applicable jurisdiction, be reviewed by qualified counsel, and be signed by authorised representatives.
+
+Client representative: ____________________
+Provider representative: __________________
+Date: ____________________
+
+DETECTION NOTES
+Expected category: Legal document / contract
+Potential indicators: parties, scope, payment terms, confidentiality, termination, liability, governing law, signatures.
+These notes are included to help test document classification and should not be treated as a legal conclusion.
